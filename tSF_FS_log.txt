@@ -1,0 +1,11 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     N:\TacShift\CO22_Thatcher_line_Hear_the_Echo.chernarus_summer\ 
+Mission fodler name:   CO22_Thatcher_line_Hear_the_Echo 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing Conversations 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing POM 
+Done! 
